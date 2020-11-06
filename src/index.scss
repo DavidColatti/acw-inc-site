@@ -2,12 +2,12 @@
 @import "./sass/abstracts/mixins";
 @import "./sass/abstracts/variables";
 
+@import "./sass/components/header";
+
 @import "./sass/base/animations";
 @import "./sass/base/base";
 @import "./sass/base/typography";
 @import "./sass/base/utilities";
-
-// COMPONENTS
 
 @import "./sass/layout/grid";
 
